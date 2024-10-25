@@ -1,0 +1,10 @@
+.menu{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    list-style: none;
+    background-color: black;
+    color: aliceblue;
+    font-size: 2em;
+    padding: 30px 10px;
+}
